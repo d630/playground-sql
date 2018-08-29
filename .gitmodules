@@ -22,3 +22,6 @@
 [submodule "cea13607aa8bbc5e73cf016e2e90aec0"]
 	path = cea13607aa8bbc5e73cf016e2e90aec0
 	url = https://gist.github.com/cea13607aa8bbc5e73cf016e2e90aec0.git
+[submodule "07671e38a44e799130acc7f7ab429b62"]
+	path = 07671e38a44e799130acc7f7ab429b62
+	url = https://gist.github.com/d630/07671e38a44e799130acc7f7ab429b62.git
